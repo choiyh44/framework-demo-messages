@@ -1,0 +1,8 @@
+spring:
+  messages:
+    basename:
+      messages.common.common,
+      messages.main.main
+    
+debug: true
+      
